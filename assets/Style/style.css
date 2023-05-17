@@ -1,0 +1,67 @@
+*{
+    background-color: beige;
+}
+h1{
+    color: navy;
+    text-decoration: double;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color: brown;
+    font-style: oblique;
+    background-color: thistle;
+    font-weight: bold;
+    padding: 15px;
+}
+p{
+    color: black;
+    font-size: large;
+    text-decoration: underline;   
+}
+a{
+    color: sienna;
+    font-size: x-large;
+    text-decoration: none;
+}
+.Azul{
+    background-color: blue;
+}
+.Amarillo{
+    background-color: yellow;
+}
+.Rojo{
+    background-color: red;
+}
+.Verde{
+    background-color: green;
+}
+#Enlace{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    object-fit: contain;
+    height: 15rem;
+    width: 20rem;
+}
+div{
+    width: 20rem;
+}
+#logo{
+    width: 15rem;
+    height: 15rem;
+}
+div>h3{
+    text-decoration: underline;
+}
+header a{
+    background-color: navajowhite;
+}
+main{
+    background-image: url(../Imagenes/Mundial.jpg);
+    background-repeat: no-repeat;
+    background-position: 70%;
+}
